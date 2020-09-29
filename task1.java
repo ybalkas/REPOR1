@@ -1,6 +1,6 @@
 package assignment_day_6;
 
-public class task1 {
+public private class task1 {
 
 	public static void main(String[] args) {
 		// Write a program to convert gallons into Liters and display it.
