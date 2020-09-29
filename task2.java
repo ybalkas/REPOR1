@@ -28,3 +28,5 @@ Display new values of Num1 and Num2
 	}
 
 }
+System.out.println("given n1=10 changes into n1= "+n1);
+		System.out.println(" given n2=20 changes into n2= "+n2);
